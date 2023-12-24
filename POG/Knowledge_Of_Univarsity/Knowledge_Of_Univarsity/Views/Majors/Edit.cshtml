@@ -1,0 +1,48 @@
+﻿@model Knowledge_Of_Univarsity.Models.Major
+@{
+    Layout = "_AdminLayout";
+}
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+<form asp-action="Edit">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div style="display:flex; justify-content:center;">
+        <img src="~/@Model.images" width="200" height="200" />
+    </div>
+
+    <hr />
+
+    <div class="bd-example">
+        <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Name</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Description</label>
+            <textarea asp-for="Description" class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+        </div>
+        <div class="mb-3">
+            <label asp-for="PersonSpecifications" class="form-label">PersonSpecifications</label>
+            <textarea asp-for="PersonSpecifications" class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+        </div>
+        <div class="mb-3">
+            <label asp-for="workfields" class="form-label">workfields</label>
+            <textarea asp-for="workfields" class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Courses" class="form-label">Courses</label>
+            <textarea asp-for="Courses" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-outline-warning" />
+    </div>
+  
+</form>
+
+  @section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

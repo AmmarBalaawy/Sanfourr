@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Knowledge_Of_Univarsity.Models.SuccessStory>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@*<p>
+    <a asp-action="Create" class="btn btn-success">Create New</a>
+</p>*@
+<div class="container">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+@foreach (var item in Model)
+{
+    
+            <div class="col">
+                <div class="ItemCard">
+                    <div>
+                        <h3 style="text-align:center;">@Html.DisplayFor(modelItem => item.Name)</h3>
+                        <br>
+                        <img src="~/@item.Images" width="100%" height="225">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-primary"><a style="color:black" asp-action="Details" asp-route-id="@item.Id">القصة</a></button>
+@*                                    <button type="button" class="btn btn-success"><a style="color:black" asp-action="Edit" asp-route-id="@item.Id">تعديل</a></button>
+                                    <button type="button" class="btn btn-success"><a style="color:black" asp-action="Delete" asp-route-id="@item.Id">حذف</a></button>*@
+                                    
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+}
+
+        </div>
+    </div>

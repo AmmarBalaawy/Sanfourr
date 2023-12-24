@@ -1,0 +1,31 @@
+﻿@model Knowledge_Of_Univarsity.Models.SuccessStory
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<div>
+    <hr />
+    <div class="SAll">
+        <div class="SMaj">
+            <h1> @Html.DisplayFor(model => model.Name) </h1>
+            <img class="SImg" src="~/@Model.Images" width="200px" height="200px" />
+        </div>
+        <div class=" SData">
+            @Html.DisplayFor(model => model.Description)
+        </div>
+
+
+       
+
+
+    </div>
+ 
+          
+        
+</div>
+<div>
+    @*<a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |*@
+    <a asp-action="Index" class="btn btn-primary">رجوع </a>
+</div>

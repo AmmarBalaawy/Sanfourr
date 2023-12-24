@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Knowledge_Of_Univarsity.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Knowledge_Of_Univarsity.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\CImg\\ECO.jfif",
+      "PackagePath": "staticwebassets\\CImg\\ECO.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\CImg\\ENG.jfif",
+      "PackagePath": "staticwebassets\\CImg\\ENG.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\CImg\\IT.jfif",
+      "PackagePath": "staticwebassets\\CImg\\IT.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\CImg\\الاداب.png",
+      "PackagePath": "staticwebassets\\CImg\\الاداب.png"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\CImg\\التمريض.png",
+      "PackagePath": "staticwebassets\\CImg\\التمريض.png"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\CImg\\العلوم.png",
+      "PackagePath": "staticwebassets\\CImg\\العلوم.png"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\CImg\\اللغات.png",
+      "PackagePath": "staticwebassets\\CImg\\اللغات.png"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\Img\\aabu.jfif",
+      "PackagePath": "staticwebassets\\Img\\aabu.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\Img\\back (2).jpg",
+      "PackagePath": "staticwebassets\\Img\\back (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\Img\\back.jpg",
+      "PackagePath": "staticwebassets\\Img\\back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\Img\\logo.jfif",
+      "PackagePath": "staticwebassets\\Img\\logo.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\Img\\sus.jfif",
+      "PackagePath": "staticwebassets\\Img\\sus.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\Img\\th (13).jfif",
+      "PackagePath": "staticwebassets\\Img\\th (13).jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\Img\\th (5).jfif",
+      "PackagePath": "staticwebassets\\Img\\th (5).jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\Img\\th (9).jfif",
+      "PackagePath": "staticwebassets\\Img\\th (9).jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\MImg\\BIT.jfif",
+      "PackagePath": "staticwebassets\\MImg\\BIT.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\MImg\\DS.jfif",
+      "PackagePath": "staticwebassets\\MImg\\DS.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\MImg\\th (10).jfif",
+      "PackagePath": "staticwebassets\\MImg\\th (10).jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\MImg\\th (11).jfif",
+      "PackagePath": "staticwebassets\\MImg\\th (11).jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\MImg\\th (12).jfif",
+      "PackagePath": "staticwebassets\\MImg\\th (12).jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\MImg\\th (4).jfif",
+      "PackagePath": "staticwebassets\\MImg\\th (4).jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\MImg\\th (5).jfif",
+      "PackagePath": "staticwebassets\\MImg\\th (5).jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\MImg\\th (6).jfif",
+      "PackagePath": "staticwebassets\\MImg\\th (6).jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\MImg\\th (7).jfif",
+      "PackagePath": "staticwebassets\\MImg\\th (7).jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\MImg\\th (8).jfif",
+      "PackagePath": "staticwebassets\\MImg\\th (8).jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\MImg\\th (9).jfif",
+      "PackagePath": "staticwebassets\\MImg\\th (9).jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\MImg\\th.jfif",
+      "PackagePath": "staticwebassets\\MImg\\th.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\SSImg\\احمد ربابعه.png",
+      "PackagePath": "staticwebassets\\SSImg\\احمد ربابعه.png"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\SSImg\\احمد غانم.png",
+      "PackagePath": "staticwebassets\\SSImg\\احمد غانم.png"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\SSImg\\محمد الشرع.png",
+      "PackagePath": "staticwebassets\\SSImg\\محمد الشرع.png"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\SSImg\\مهند طلال.png",
+      "PackagePath": "staticwebassets\\SSImg\\مهند طلال.png"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MQ\\OneDrive\\Desktop\\my files\\POG\\Knowledge_Of_Univarsity\\Knowledge_Of_Univarsity\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Knowledge_Of_Univarsity.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Knowledge_Of_Univarsity.props",
+      "PackagePath": "build\\Knowledge_Of_Univarsity.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Knowledge_Of_Univarsity.props",
+      "PackagePath": "buildMultiTargeting\\Knowledge_Of_Univarsity.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Knowledge_Of_Univarsity.props",
+      "PackagePath": "buildTransitive\\Knowledge_Of_Univarsity.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

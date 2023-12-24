@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Knowledge_Of_Univarsity.Models.University>
+        @{
+            ViewData["Title"] = "Index";
+        }
+
+        @foreach (var item in Model)
+        {
+            <div class="Home">
+                @* <div>
+            <h1>@Html.DisplayFor(modelItem => item.Name)</h1>
+            </div>*@
+                <div>
+                    <img src="~/img/th (5).jfif" width="200" height="200" />
+                    <img src="~/@item.Images">
+                </div>
+                <div class="info">
+                    @Html.DisplayFor(modelItem => item.Description)
+                </div>
+                @*            <div>
+            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+            <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </div>*@
+            </div>
+        }
+
+

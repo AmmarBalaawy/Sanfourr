@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Knowledge_Of_Univarsity.props" />
+</Project>

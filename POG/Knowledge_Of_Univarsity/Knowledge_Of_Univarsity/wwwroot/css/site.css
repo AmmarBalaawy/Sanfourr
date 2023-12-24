@@ -1,0 +1,102 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: white;
+    color: #2D9BF0;
+}
+.ItemCard {
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+    color: #2D9BF0;
+    border: 1px solid #072541;
+}
+    .ItemCard:hover {
+        margin-top: 15px;
+        margin-left: 7px;
+        margin-right: 7px;
+        padding: 5%;
+       
+        color: black;
+        box-shadow: 10px 10px 10px 10px #888888;
+    }
+.ItemCard img{
+    border-radius:5%
+}
+.info {
+    border-radius: 30px;
+    padding: 30px;
+    margin: 15px 0px;
+    background-color: white;
+    color: black;
+}
+.page {
+    display: flex;
+    justify-content: center;
+
+}
+.Home{
+    text-align:center;
+    margin-top:30px;
+    align-content:center;
+
+}
+.Home2 {
+    text-align: center;
+    align-content: center;
+    margin-top: 150px;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(255, 255, 255,0.8);
+    padding: 15px;
+    width: 50%;
+    height: 50%;
+}
+.Home h1{
+    font-size:70px;
+
+}
+.SData {
+    background-color: white;
+    color: #2D9BF0;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 10px;
+}
+.SMaj h1 {
+    text-align: center;
+}
+.SImg{
+    margin:5px;
+}
+.cont{
+    color:black;
+}
+header{
+    margin:30px;
+}
+header nav{
+    padding:20px;
+}
+.head{
+    border:1px #2D9BF0 solid;
+    display:flex;
+    justify-content:space-around;
+}
+.logo{
+    border-radius:100%;
+}

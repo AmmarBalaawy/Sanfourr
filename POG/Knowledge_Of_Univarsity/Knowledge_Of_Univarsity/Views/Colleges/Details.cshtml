@@ -1,0 +1,29 @@
+﻿@model Knowledge_Of_Univarsity.Models.College
+
+@{
+    ViewData["Title"] = "Details";
+} 
+<div>
+    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+       
+        @foreach (var major in Model.majors)
+        {
+            <div class="col">
+                <div class="ItemCard">
+                    <div>
+                        <img src="~/@major.images" width="100%" height="225">
+                        <div class="card-header py-3">
+                            <h4 class="my-0 fw-normal">@Html.DisplayFor(Major => major.Name)</h4>
+                        </div>
+                        <div class="card-body">
+                            <img src="" />
+                            <button class="btn btn-primary"><a style="color:white ;text-decoration:none;" asp-action="Details" asp-controller="Majors" asp-route-id="@major.MajorId">معلومات القسم</a></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+
+</div>

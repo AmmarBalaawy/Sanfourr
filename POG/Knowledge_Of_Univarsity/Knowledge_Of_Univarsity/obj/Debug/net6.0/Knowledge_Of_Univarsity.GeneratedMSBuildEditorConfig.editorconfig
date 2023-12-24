@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Knowledge_Of_Univarsity
+build_property.RootNamespace = Knowledge_Of_Univarsity
+build_property.ProjectDir = C:\Users\MQ\OneDrive\Desktop\my files\POG\Knowledge_Of_Univarsity\Knowledge_Of_Univarsity\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MQ\OneDrive\Desktop\my files\POG\Knowledge_Of_Univarsity\Knowledge_Of_Univarsity
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Colleges/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Colleges/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Colleges/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Colleges/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Colleges/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Home/college.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb2xsZWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Home/major.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtYWpvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Home/MajorDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWpvckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Home/SuccessStory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWNjZXNzU3RvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Majors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFqb3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Majors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFqb3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Majors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFqb3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Majors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFqb3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Majors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFqb3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/SuccessStories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1N0b3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/SuccessStories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1N0b3JpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/SuccessStories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1N0b3JpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/SuccessStories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1N0b3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/SuccessStories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1N0b3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/SuccessStories/user.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1N0b3JpZXNcdXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Universities/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Universities/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Universities/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Universities/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Universities/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0aWVzXEhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Universities/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Universities/Map.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0aWVzXE1hcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MQ/OneDrive/Desktop/my files/POG/Knowledge_Of_Univarsity/Knowledge_Of_Univarsity/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dvwvjeql0r
